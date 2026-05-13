@@ -1,4 +1,4 @@
-# 
+# high-frequency Sniper for dexscreener sniper bot | snipe-list-management & take-profit offers the most advanced dexscreener sniper bot, with snipe-list-management and take-profit.
 
 
 
